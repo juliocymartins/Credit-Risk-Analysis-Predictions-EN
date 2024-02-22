@@ -35,13 +35,11 @@ The dataset used in this project can be found at the following link: [Credit Ris
 To reproduce this project, follow these steps:
 
 1 - Download the dataset from the provided link.
-2 - Ensure you have the following Python packages installed:
-      - pandas
-      - matplotlib
-      - seaborn
-      - scikit-learn
-      - xgboost
+
+2 - Ensure you have the following Python packages installed: Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost
+     
 3 - Execute the notebooks or scripts in each chapter in the indicated order.
+
 4 - Analyze the results and conclusions presented in each section.
 
 
