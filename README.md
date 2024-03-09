@@ -1,4 +1,4 @@
-# Credit Risk Analysis Prediction
+# Credit Loan Prediction
 
 <img align="center" alt="Coding" width="400" src="https://boefly.com/wp-content/uploads/2022/11/CreditCheck.gif">
 
