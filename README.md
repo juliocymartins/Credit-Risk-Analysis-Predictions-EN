@@ -1,5 +1,7 @@
 # Credit Risk Analysis Prediction
 
+<img align="right" alt="Coding" width="400" src="https://boefly.com/wp-content/uploads/2022/11/CreditCheck.gif">
+
 This project aims to analyze and predict credit risk based on the 'Credit Risk Dataset' available on Kaggle. Various data preprocessing techniques and machine learning models will be used to determine whether loans will be granted or not to individuals.
 
 ## Dataset
